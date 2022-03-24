@@ -1,6 +1,7 @@
 var fahrenheitToCelsiusMain = function (input) {
   // Complete the Base: Fahrenheit to Celsius exercise below with fahrenheitToCelsiusMain as the main function.
   var myOutputValue = "hello kimmi";
+  myOutputValue = "hello";
   return myOutputValue;
 };
 
